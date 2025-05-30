@@ -1,4 +1,4 @@
-# 📝 Docker Flask + Nginx Todo List
+# 📝 Docker Flask Backend + Docker Nginx Frontend
 
 Projeto de semente que separa **backend Flask** e **frontend estático** (apenas com javascript) em contêineres distintos usando **Docker Compose**.  
 
