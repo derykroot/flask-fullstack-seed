@@ -1,0 +1,48 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyd
+# pacotes instalados em venvs locais
+.env/
+.venv/
+venv/
+ENV/
+env/
+
+# ---- Logs & misc ----
+*.log
+*.sqlite3
+*.db
+*.pid
+*.coverage
+.coverage.*
+
+# ---- Testes ----
+htmlcov/
+.pytest_cache/
+
+# ---- Editor / IDE ----
+.vscode/
+.idea/
+*.sw?
+*.sublime-*
+
+# ---- Sistema operacional ----
+.DS_Store
+Thumbs.db
+
+# ---- Docker / Compose ----
+docker-compose.override.yml
+*.env
+# camadas de build locais
+**/build/
+**/dist/
+
+# ---- Front-end (caso adicione ferramentas JS futuramente) ----
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
