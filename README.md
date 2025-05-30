@@ -1,7 +1,6 @@
 # 📝 Docker Flask + Nginx Todo List
 
-Projeto de exemplo que separa **backend Flask** e **frontend estático** em contêineres distintos usando **Docker Compose**.  
-Em ambiente de desenvolvimento, qualquer alteração de código ou HTML/CSS/JS é refletida imediatamente (_hot-reload_) sem reiniciar os contêineres.
+Projeto de semente que separa **backend Flask** e **frontend estático** (apenas com javascript) em contêineres distintos usando **Docker Compose**.  
 
 ## 📚 Sumário
 
